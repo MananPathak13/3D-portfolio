@@ -15,7 +15,7 @@ import {
   git,
   figma,
   docker,
-  meta,
+  sheridan_edge,
   starbucks,
   tesla,
   shopify,
@@ -157,19 +157,20 @@ const experiences = [
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    title: "I.T. Co-op Student",
+    company_name: "Sheridan EDGE",
+    icon: sheridan_edge,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jan 2021 – April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Played a pivotal role in the migration of legacy systems to Microsoft Azure, ensuring minimal downtime and a seamless transition for business operation.",
+      "Implemented payment API integrations using Python (Django), Vue.js, JavaScript, and TypeScript, enhancing transaction efficiency and customer satisfaction",
+      "Assisted in the deployment and management of full-stack web applications in Azure, integrating frontend and backend components for comprehensive solution delivery",
+      "Enhanced reporting and data analytics capabilities by leveraging Azure SQL Database and Power Bi.",
     ],
   },
 ];
+
 
 const testimonials = [
   {
